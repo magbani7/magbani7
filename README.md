@@ -15,7 +15,7 @@
 
 ## 📫 How to reach me
 - Email: ma.mohamed.agbani@example.com
-- LinkedIn: [[LinkedIn Profile]([))](https://www.linkedin.com/in/mohamed-agbani](https://www.linkedin.com/in/agbanimohamed/)
+- LinkedIn:(https://www.linkedin.com/in/mohamed-agbani](https://www.linkedin.com/in/agbanimohamed/)
 
 ## 😄 Pronouns
 - He/Him
